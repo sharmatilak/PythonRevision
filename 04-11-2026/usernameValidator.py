@@ -7,7 +7,7 @@ message = "" \
 "3. Username must not contain numbers. \n\n"
 username = input(message)
 
-if len(username) >= 12 and (not username.count(" ")) and username.isalpha():
+if len(username) >= 12 and (not username.find(" ")) and username.isalpha():
     print("Thanks for following rules lol.")
 else:
     print("Get out of here.")
