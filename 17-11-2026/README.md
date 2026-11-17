@@ -10,3 +10,18 @@ print statement was printing a broken dice but later realized that
 every print statement prints in a separate line so you have to iterate. 
 Kind of a silly problem but hey i am still learning :D
 ```
+
+
+Today I learnt:
+
+- Functions
+- Default arguments
+- Keyword arguments
+- *args & **kwargs
+- Iterables
+- Membership operators
+- List comprehensions
+- Match-case statements
+- Modules
+- Scope resolution
+- if name == 'main':
