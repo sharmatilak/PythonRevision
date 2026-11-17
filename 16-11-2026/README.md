@@ -1,6 +1,6 @@
 Today from [BroCode's Python Video](https://youtu.be/ix9cRaBkVe0) I created:
 
-- [Random Number Guessing Program](randomNumber.py)- Uses `random` module to generate a random number between 1 to 100 with user only getting 6 tries.
+- [Random Number Guessing Program](randomNumber.py) - Uses `random` module to generate a random number between 1 to 100 with user only getting 6 tries.
 
 #### Note 1st:
 
