@@ -7,6 +7,7 @@ Today from [BroCode's Python Video](https://youtu.be/ix9cRaBkVe0) I learnt:
 
 - [Multiple & Multilevel Inheritance](multiInterihance.py)
 
+- [super() method](superMethod.py)
 
 I created:
 
